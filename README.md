@@ -1,4 +1,6 @@
-# Final Project
+# Data Analytics Bootcamp. Final Project
+
+## Research and model to understand the US aviation market
 
 This project is the conclusion of the Data Analytics Bootcamp at Ironhack Berlin, where we have learned about coding in Python, querying in SQL, visualizing in Tableau and applying Machine Learning models.
 
