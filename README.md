@@ -12,4 +12,4 @@ In this Github repository you can find all 7 notebooks I have worked on with my 
 
 Note: Due to some technical issues, there are 7 different notebooks I have worked on, chronologically labeled. Some of the dataframes had problems running through many different commands, but it was something I managed to solve by exporting the dataframe, opening a different notebook, and importing the dataframe. This is the reason why there are so many notebooks. I will work on unifying it soon to try to optimize it and make it fit in one notebook.
 
-Click here for [the link](https://public.tableau.com/profile/david.m2728#!/vizhome/RouteMap_16081260824170/Story1) to the dashboards through Tableau Public.
+[Link](https://public.tableau.com/profile/david.m2728#!/vizhome/RouteMap_16081260824170/Story1) to the dashboards through Tableau Public.
