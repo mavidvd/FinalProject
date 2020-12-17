@@ -11,3 +11,5 @@ The project itself has started with the treatment of data, grouping by routes, c
 In this Github repository you can find all 7 notebooks I have worked on with my data in Python, the SQL file of the queries ran and a Tableau Compressed Notebook with the dashboards and the data extract required to run it, along with the slides I used to support my presentation of the project.
 
 Note: Due to some technical issues, there are 7 different notebooks I have worked on, chronologically labeled. Some of the dataframes had problems running through many different commands, but it was something I managed to solve by exporting the dataframe, opening a different notebook, and importing the dataframe. This is the reason why there are so many notebooks. I will work on unifying it soon to try to optimize it and make it fit in one notebook.
+
+Click here for [the link](https://public.tableau.com/profile/david.m2728#!/vizhome/RouteMap_16081260824170/Story1) to the dashboards through Tableau Public.
